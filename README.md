@@ -209,7 +209,7 @@ In particular, this point from my essay, this essay, wasn't correct:
 
 > "the reality is that pseudoseizures virtually always resemble whole body shaking or passing out or in rare cases staring into space, not the symptoms I've had which more closely resemble simple partial seizures or focal aware seizures (but without the accompanying readings on an EEG, so they're not "real" focal aware seizures), and I can't find any record of pseudoseizures having ever resembled what I have" 
 
-In particular, the neurologist said that wasn't correct because pseudoseizures (non-epileptic seizures) can in fact resemble simple partial seizures or focal aware seizures and that I have "functional neurological disorder" (conversion disorder without cause by psychological trauma). I talked to another doctor, a psychiatrist, about it and he said "We can't do anything about that". I tried maybe 5 different mood stabilizers and 10 different antipsychotics and nothing had any effect on my "functional neurological disorder".
+In particular, the neurologist said that wasn't correct because pseudoseizures (non-epileptic seizures) can in fact resemble simple partial seizures or focal aware seizures and that I have "functional neurological disorder" (conversion disorder without cause by psychological trauma). I talked to another doctor, a psychiatrist named Stephen Ghazikhanian at Johns Hopkins, about it and he said "We can't do anything about that". I tried maybe 5 different mood stabilizers and 10 different antipsychotics and nothing had any effect on my "functional neurological disorder". Talk therapy didn't help either.
 
-Bonus Paragraph 4 completed: Nov 16th, 2024 
+Bonus Paragraph 4 completed: Nov 27th, 2024 
 
