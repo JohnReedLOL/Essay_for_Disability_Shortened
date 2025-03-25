@@ -11,7 +11,7 @@ Table of Contents (click on a link to jump to that section)
 * <a href="#Cognitive-Issues">Cognitive Issues</a>
 * <a href="#Sleep-Issues">Sleep Issues</a>
 * <a href="#Transportation-Issues">Transportation Issues</a>
-* <a href="#Social-or-Interpersonal-or-Personality-Issues">Social or Interpersonal or Personality Issues</a>
+* <a href="#Social-or-Interpersonal-or-Personality-Issues">Social/Interpersonal/Personality/Psychological Issues</a>
 * <a href="#Motivation-Issues">Motivation Issues</a>
 * <a href="#Additional-Information-Including-Neurological-Symptoms">Additional Information Including Neurological Symptoms</a>
 * <a href="#Sign-Off-With-Date">Sign off with date</a>
@@ -65,7 +65,7 @@ ________________________________________________________________________________
 
 <a name="Social-or-Interpersonal-or-Personality-Issues"></a>
 
-### Social or Interpersonal or Personality Issues
+### Social/Interpersonal/Personality/Psychological Issues
 
 On my long-form CDR (form SSA-454-BK) I wrote that I have "Grandiose Narcissistic/Sociopath/Psychopath Personality Disorder", but in retrospect I don't think that is entirely accurate and may be more due to manic symptoms at the time. I have a hard time putting into exact words my personality issue, but I think a more accurate description of my personality issue is "No care for others feelings or them as a person or ability to love other people exclusing short-term obsession/limerence/infatuation." That may not be 100% perfectly exactly correct, but that's the best I've got for a one-sentence answer. For a longer explanation, see the section at web link: 
 
